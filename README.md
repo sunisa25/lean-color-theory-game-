@@ -1,1 +1,0 @@
-# lean-color-theory-game-
